@@ -1,5 +1,3 @@
-# CRUD_Operation
-# CRUD_Operation
 
 # CRUD Operation - User Management Application
 
